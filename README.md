@@ -1,6 +1,9 @@
 # 👩‍👩‍👦Customer Market Segmentation
 Customer segmentation is the practice of dividing a company's customers into groups that reflect similarity among customers in each group. The goal of segmenting customers is to decide how to relate to customers in each segment in order to maximize the value of each customer to the business.
 
+
+![image2](https://user-images.githubusercontent.com/65475928/123808268-382a5500-d90e-11eb-898c-1238beb95e30.png)
+
 ### 🧐Attributes Description
 
 Variable | Description
@@ -27,6 +30,8 @@ In their existing market, the sales team has to classify all customers into diff
 
 # 📌Concepts and Techniques used in the Project 
 
+![image3](https://user-images.githubusercontent.com/65475928/123808512-732c8880-d90e-11eb-8a9e-8e4e5eb8543e.png)
+
 ## 🪁Data Wrangling
 Data wrangling is the process of cleaning, structuring and enriching raw data into a desired format for better decision making in less time.
 This includes - 
@@ -41,6 +46,9 @@ If the missing data is Present in -
 * Categorical Variable feature - Fill mode of the column in place of missing data
 
 ## 🪁Exploratory Data Analysis
+
+![image](https://techvee.live/assets/img/b33.png?h=74431e52780d812ef0299500906b4e2d)
+
 **1. Variable Identification**
 * Categorical 
      - Ordinal
@@ -61,7 +69,7 @@ If the missing data is Present in -
 **4. Outlier Detection**
 * Box plot are the best statistical Measure for Outlier detection
 
-5. Missing value Treatment
+**5. Missing value Treatment**
 * Depending upon the dataset the missing value treatment can be done before EDA or after EDA process
 
 ## 🪁Data Preprocessing
@@ -92,3 +100,5 @@ If the missing data is Present in -
  ## ✂Principal Component Analysis (PCA) technique
  * To Perform Dimensionality Reduction
  * Data Visualization
+ 
+![image](https://user-images.githubusercontent.com/65475928/123807602-a1f62f00-d90d-11eb-8e33-b1843ee1a540.png)
