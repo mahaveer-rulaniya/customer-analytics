@@ -1,7 +1,7 @@
-# Customer Market Segmentation
+# 👩‍👩‍👦Customer Market Segmentation
 Customer segmentation is the practice of dividing a company's customers into groups that reflect similarity among customers in each group. The goal of segmenting customers is to decide how to relate to customers in each segment in order to maximize the value of each customer to the business.
 
-### Attributes Description
+### 🧐Attributes Description
 
 Variable | Description
 --------------|-----------
@@ -25,9 +25,9 @@ An automobile company has plans to enter new markets with their existing product
 ## Content
 In their existing market, the sales team has to classify all customers into different number of segments. Then, they can perform segmented outreach and communication for different segment of customers.
 
-# Concepts and Techniques used in the Project 
+# 📌Concepts and Techniques used in the Project 
 
-## Data Wrangling
+## 🪁Data Wrangling
 Data wrangling is the process of cleaning, structuring and enriching raw data into a desired format for better decision making in less time.
 This includes - 
    - Basic Cleaning
@@ -35,12 +35,12 @@ This includes -
    - Data manipulation
    - Organising of Data
 
-## Missing Values Treatment
+## 🪁Missing Values Treatment
 If the missing data is Present in -
 * Continuous variable feature - Fill Median or mean based on the distriution of feature variale
 * Categorical Variable feature - Fill mode of the column in place of missing data
 
-## Exploratory Data Analysis
+## 🪁Exploratory Data Analysis
 **1. Variable Identification**
 * Categorical 
      - Ordinal
@@ -64,7 +64,7 @@ If the missing data is Present in -
 5. Missing value Treatment
 * Depending upon the dataset the missing value treatment can be done before EDA or after EDA process
 
-## Data Preprocessing
+## 🪁Data Preprocessing
 
 **1. Feature Engineering**
 * After analysing the dataset and based on the insights we add or remove some attributes so that our model performs good.
@@ -80,7 +80,7 @@ If the missing data is Present in -
     - K-NN algorithm
     - Principal Component Analysis 
 
-## Clustering Technique
+## ✂Clustering Technique
 
 * The K-means clustering algorithm is used to find groups which have not been explicitly labeled in the data. This can be used to confirm business assumptions about what types of groups exist or to identify unknown groups in complex data sets
 * Find Number of Clusters - 
@@ -89,6 +89,6 @@ If the missing data is Present in -
    
 *Note: here after applying K-means clustering we use Principal Component Analysis (PCA) technique*
  
- ## Principal Component Analysis (PCA) technique
+ ## ✂Principal Component Analysis (PCA) technique
  * To Perform Dimensionality Reduction
  * Data Visualization
