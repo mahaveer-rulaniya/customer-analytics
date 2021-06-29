@@ -76,9 +76,9 @@ If the missing data is Present in -
 
 **3. Feature Scaling**
 * Features are scaled to give the good output for some algorithms which depends on some similiarty function like - 
-      - K-Means Clustering algorithm
-      - K-NN algorithm
-      - Principal Component Analysis 
+    - K-Means Clustering algorithm
+    - K-NN algorithm
+    - Principal Component Analysis 
 
 ## Clustering Technique
 
