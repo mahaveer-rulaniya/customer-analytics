@@ -91,7 +91,7 @@ If the missing data is Present in -
 ## ✂Clustering Technique
 
 * The K-means clustering algorithm is used to find groups which have not been explicitly labeled in the data. This can be used to confirm business assumptions about what types of groups exist or to identify unknown groups in complex data sets
-* Find Number of Clusters - 
+* Find Number of Clusters   - 
      - Using Elbow Method
      - Understanding Business requirements
    
